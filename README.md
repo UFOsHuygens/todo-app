@@ -1,1 +1,1 @@
-#### Um simples sistema que cria e deleta tarefas
+#### Uma simples aplicação de criar e deletar tarefas
