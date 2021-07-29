@@ -1,0 +1,17 @@
+body {
+    padding-top: 20px;
+    background-color: #6610f2;
+}
+
+.card {
+    box-shadow: black 2px 2px 10px;
+}
+
+.lista-size {
+    height: 400px;
+}
+
+.list-group li:hover, label:hover {
+    background: #EEE;
+    cursor: pointer;
+}
